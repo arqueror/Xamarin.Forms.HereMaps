@@ -27,8 +27,8 @@ namespace Xamarin.Forms.HereMaps
             
                     // Initialize the platform object:
                     var platform = new H.service.Platform({
-                    'app_id': 'ChvFIQFI5V4DMUUP1Vi1',
-                    'app_code': 'MGIlBIYjv2eSp8JL4D8UMA',
+                    'app_id': '{app_id}',
+                    'app_code': '{app_code}',
                     useHTTPS: true
                 });
 
